@@ -1,5 +1,4 @@
-{
-    "products":
+
     [
         {
             "id": 1,
@@ -66,4 +65,3 @@
             "image": "https://cdn-icons-png.flaticon.com/512/468/468339.png"
         }
     ]
-}
