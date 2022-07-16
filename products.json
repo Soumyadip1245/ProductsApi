@@ -141,15 +141,15 @@
             "price": "25",
             "description": "Good Quality Capsicum 500gm",
             "category": "fruitandvegetables",
-            "image": "https://cdn-icons-png.flaticon.com/512/2934/2934894.png"
+            "image": "https://cdn-icons-png.flaticon.com/512/2909/2909767.png"
         },
         {
             "id": 19,
-            "title": "Watermelon",
-            "price": "85",
-            "description": "Good Quality Watermelon 1.5Kg",
+            "title": "Tomato",
+            "price": "40",
+            "description": "Good Quality Tomato 1Kg",
             "category": "fruitandvegetables",
-            "image": "https://cdn-icons-png.flaticon.com/512/2934/2934894.png"
+            "image": "https://cdn-icons-png.flaticon.com/512/2503/2503930.png"
         },
         {
             "id": 20,
@@ -181,7 +181,7 @@
             "price": "110",
             "description": "Good Quality Crab 750gm",
             "category": "seafood",
-            "image": "https://cdn-icons.flaticon.com/png/512/1318/premium/1318449.png?token=exp=1657983053~hmac=0a22ba54b167169df146890e90a6a8f7"
+            "image": "https://cdn-icons.flaticon.com/png/512/2931/premium/2931496.png?token=exp=1657984324~hmac=843b92b28202b2fef6583871bc13e5dc"
         },
         {
             "id": 24,
