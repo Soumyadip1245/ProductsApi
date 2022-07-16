@@ -134,5 +134,61 @@
             "description": "Good Quality Watermelon 1.5Kg",
             "category": "fruitandvegetables",
             "image": "https://cdn-icons-png.flaticon.com/512/2934/2934894.png"
+        },
+        {
+            "id": 18,
+            "title": "Capsicum",
+            "price": "25",
+            "description": "Good Quality Capsicum 500gm",
+            "category": "fruitandvegetables",
+            "image": "https://cdn-icons-png.flaticon.com/512/2934/2934894.png"
+        },
+        {
+            "id": 19,
+            "title": "Watermelon",
+            "price": "85",
+            "description": "Good Quality Watermelon 1.5Kg",
+            "category": "fruitandvegetables",
+            "image": "https://cdn-icons-png.flaticon.com/512/2934/2934894.png"
+        },
+        {
+            "id": 20,
+            "title": "Sausages",
+            "price": "185",
+            "description": "Good Quality Chicken Sausages 5pcs",
+            "category": "meat",
+            "image": "https://cdn-icons-png.flaticon.com/512/1070/1070815.png"
+        },
+        {
+            "id": 21,
+            "title": "Salami",
+            "price": "120",
+            "description": "Good Quality Salami 10pcs",
+            "category": "meat",
+            "image": "https://cdn-icons-png.flaticon.com/512/2718/2718144.png"
+        },
+        {
+            "id": 22,
+            "title": "Pomfret",
+            "price": "220",
+            "description": "Good Quality Fish 800gm",
+            "category": "seafood",
+            "image": "https://cdn-icons-png.flaticon.com/512/4784/4784730.png"
+        },
+        {
+            "id": 23,
+            "title": "Crab",
+            "price": "110",
+            "description": "Good Quality Crab 750gm",
+            "category": "seafood",
+            "image": "https://cdn-icons.flaticon.com/png/512/1318/premium/1318449.png?token=exp=1657983053~hmac=0a22ba54b167169df146890e90a6a8f7"
+        },
+        {
+            "id": 22,
+            "title": "Pineapple",
+            "price": "100",
+            "description": "Good Quality Fruit 1kg",
+            "category": "fruitandvegetables",
+            "image": "https://cdn-icons-png.flaticon.com/512/6866/6866518.png"
         }
     ]
