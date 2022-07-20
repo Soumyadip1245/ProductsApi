@@ -8,7 +8,8 @@
             "category": "fruitandvegetables",
             "image": "https://cdn-icons.flaticon.com/png/512/1652/premium/1652127.png?token=exp=1657973867~hmac=cfdae4daabb5b17227195fa2f36dcebf",
             "weight": "1 Kg",
-            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam. ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam. ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam.",
+            "rating": 4.5
 
         
         },
@@ -21,7 +22,8 @@
             "category": "dairy",
             "image": "https://cdn-icons.flaticon.com/png/512/869/premium/869664.png?token=exp=1657974625~hmac=9fc57f4b9fd48707403e11ea81f0b1a7",
             "weight": "1 L",
-            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam.",
+            "rating": 4.2
         },
         {
             "id": 3,
@@ -33,6 +35,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/1046/1046751.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.1
         },
         {
             "id": 4,
@@ -44,6 +47,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2271/2271030.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.8
         },
         {
             "id": 5,
@@ -55,6 +59,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2923/premium/2923183.png?token=exp=1657974713~hmac=a47e7180e20a0ac1af0692e0a7e6f5b0",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.4
         },
         {
             "id": 6,
@@ -66,6 +71,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.0
         },
         {
             "id": 7,
@@ -77,6 +83,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/3137/premium/3137152.png?token=exp=1657974762~hmac=12c187491aeeeeca379c43465050be12",
             "weight": "1.5 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.8
         },
         {
             "id": 8,
@@ -88,6 +95,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/468/468339.png",
             "weight": "700 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.5
         },
         {
             "id": 9,
@@ -99,6 +107,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2314/premium/2314660.png?token=exp=1657982067~hmac=601eec7234f7399154d498aabd8b9dfc",
             "weight": "250 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.7
         },
         {
             "id": 10,
@@ -110,6 +119,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/1046/1046802.png",
             "weight": "1.5 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.4
         },
         {
             "id": 11,
@@ -121,6 +131,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/4791/premium/4791399.png?token=exp=1657982225~hmac=d75108440608d39f0086f08594a0af42",
             "weight": "750 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.0
         },
         {
             "id": 12,
@@ -132,6 +143,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/135/135620.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.8
         },
         {
             "id": 13,
@@ -143,6 +155,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/883/883760.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.8
         },
         {
             "id": 14,
@@ -154,6 +167,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/765/765544.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.1
         },
         {
             "id": 15,
@@ -165,6 +179,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2347/premium/2347045.png?token=exp=1657982382~hmac=af4e10af2731f05ddcac96fb799a9a9a",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.0
         },
         {
             "id": 16,
@@ -176,6 +191,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2909/2909808.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.7
         },
         {
             "id": 17,
@@ -187,6 +203,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2934/2934894.png",
             "weight": "1.5 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.4
         },
         {
             "id": 18,
@@ -198,6 +215,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2909/2909767.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.1
         },
         {
             "id": 19,
@@ -209,6 +227,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2503/2503930.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.7
         },
         {
             "id": 20,
@@ -220,6 +239,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/1070/1070815.png",
             "weight": "400 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.8
         },
         {
             "id": 21,
@@ -231,6 +251,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2718/2718144.png",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.1
         },
         {
             "id": 22,
@@ -242,6 +263,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/4784/4784730.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.8
         },
         {
             "id": 23,
@@ -253,6 +275,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2931/premium/2931496.png?token=exp=1657984324~hmac=843b92b28202b2fef6583871bc13e5dc",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.1
         },
         {
             "id": 24,
@@ -264,6 +287,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/6866/6866518.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.7
         },
         
         {
@@ -276,7 +300,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/883/883561.png",
             "weight": "100 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.1
         },
         {
             "id": 26,
@@ -288,7 +312,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/6750/6750632.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.5
         },
         {
             "id": 27,
@@ -300,7 +324,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2682/premium/2682355.png?token=exp=1658313627~hmac=c6a2bfeb136e3f6ce44bbc990fa23535",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.7
         },
         {
             "id": 28,
@@ -312,7 +336,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/4681/premium/4681964.png?token=exp=1658313728~hmac=9251149e7511b1c9b34ba46fd89035cb",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.1
         },
         {
             "id": 29,
@@ -324,7 +348,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/3014/3014502.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.4
         },
         {
             "id": 30,
@@ -336,7 +360,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2821/premium/2821805.png?token=exp=1658313934~hmac=bef591ba515d0a848a0eef30230c03f0",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.8
         },
         {
             "id": 31,
@@ -348,7 +372,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/3199/premium/3199950.png?token=exp=1658314003~hmac=c0c5f787327a4e92c862b726a0419fe2",
             "weight": "400 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.1
         },
         {
             "id": 32,
@@ -360,7 +384,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/7696/7696669.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.7
         },
         {
             "id": 33,
@@ -372,7 +396,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/2682/premium/2682340.png?token=exp=1658314202~hmac=250adb4db13c7da2b64b9fb2b3baf6fc",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.8
         },
         {
             "id": 34,
@@ -384,7 +408,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/2884/2884642.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.5
         },
         {
             "id": 35,
@@ -396,7 +420,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/783/premium/783043.png?token=exp=1658314321~hmac=d80503aa301e23785aa04139a5c28d2e",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.1
         },
         {
             "id": 36,
@@ -408,7 +432,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/4087/premium/4087074.png?token=exp=1658314457~hmac=8a1d78c0e0b46b573ca0c99f5ad63df0",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.8
         },
         {
             "id": 37,
@@ -420,7 +444,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/1687/premium/1687077.png?token=exp=1658314564~hmac=3de8aa5d39b38e069263ac8e304a19f3",
             "weight": "800 ml",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.4
         },
         {
             "id": 38,
@@ -432,7 +456,7 @@
             "image": "https://cdn-icons-png.flaticon.com/512/1041/1041345.png",
             "weight": "50 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.2
         },
         {
             "id": 39,
@@ -444,7 +468,7 @@
             "image": "https://cdn-icons.flaticon.com/png/512/4057/premium/4057353.png?token=exp=1658314810~hmac=f46eb7fab1ecd87da47aed55cd41d41a",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.1
         },
         {
             "id": 40,
@@ -456,6 +480,30 @@
             "image": "https://cdn-icons-png.flaticon.com/512/1135/1135526.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
-        
+            ,"rating": 4.5
+        },
+        {
+            "id": 41,
+            "quantity": 1,
+            "title": "Cookie",
+            "price": "80",
+            "description": "Baked Cookie",
+            "category": "bakery",
+            "image": "https://cdn-icons.flaticon.com/png/512/2388/premium/2388087.png?token=exp=1658316396~hmac=75b9c7131ef306099d6480ad491fdf61",
+            "weight": "200 gm",
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.2
+        },
+        {
+            "id": 42,
+            "quantity": 1,
+            "title": "Lassi",
+            "price": "20",
+            "description": "Fresh Lassi",
+            "category": "dairy",
+            "image": "https://cdn-icons.flaticon.com/png/512/4681/premium/4681941.png?token=exp=1658316473~hmac=20e9fc0e65a36130d3288c658e363989",
+            "weight": "50 ml",
+            "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
+            ,"rating": 4.5
         }
     ]
