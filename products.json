@@ -321,7 +321,7 @@
             "price": "80",
             "description": "Fresh Muffin",
             "category": "bakery",
-            "image": "https://cdn-icons.flaticon.com/png/512/2682/premium/2682355.png?token=exp=1658313627~hmac=c6a2bfeb136e3f6ce44bbc990fa23535",
+            "image": "https://i.imgur.com/JeTlmTC.png",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.7
@@ -333,7 +333,7 @@
             "price": "25",
             "description": "Fresh Curd",
             "category": "dairy",
-            "image": "https://cdn-icons.flaticon.com/png/512/4681/premium/4681964.png?token=exp=1658313728~hmac=9251149e7511b1c9b34ba46fd89035cb",
+            "image": "https://i.imgur.com/3vjWYS3.png",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.1
@@ -357,7 +357,7 @@
             "price": "100",
             "description": "Fresh Sandwich Made With Cottage Cheese",
             "category": "bakery",
-            "image": "https://cdn-icons.flaticon.com/png/512/2821/premium/2821805.png?token=exp=1658313934~hmac=bef591ba515d0a848a0eef30230c03f0",
+            "image": "https://i.imgur.com/pm2TBFq.png",
             "weight": "200 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.8
@@ -369,7 +369,7 @@
             "price": "150",
             "description": "Cottage Cheese Made With Fresh Dairy Milk",
             "category": "dairy",
-            "image": "https://cdn-icons.flaticon.com/png/512/3199/premium/3199950.png?token=exp=1658314003~hmac=c0c5f787327a4e92c862b726a0419fe2",
+            "image": "https://i.imgur.com/QfHekTY.png",
             "weight": "400 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.1
@@ -393,7 +393,7 @@
             "price": "500",
             "description": "Fresh Chocolate Cake With Vanilla Base",
             "category": "bakery",
-            "image": "https://cdn-icons.flaticon.com/png/512/2682/premium/2682340.png?token=exp=1658314202~hmac=250adb4db13c7da2b64b9fb2b3baf6fc",
+            "image": "https://i.imgur.com/S7HWkp7.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.8
@@ -417,7 +417,7 @@
             "price": "400",
             "description": "Good Quality Frozen Fish Fry",
             "category": "seafood",
-            "image": "https://cdn-icons.flaticon.com/png/512/783/premium/783043.png?token=exp=1658314321~hmac=d80503aa301e23785aa04139a5c28d2e",
+            "image": "https://i.imgur.com/WsegbiU.png",
             "weight": "500 gm",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.1
@@ -429,7 +429,7 @@
             "price": "20",
             "description": "Himachal Chillies",
             "category": "fruitandvegetables",
-            "image": "https://cdn-icons.flaticon.com/png/512/4087/premium/4087074.png?token=exp=1658314457~hmac=8a1d78c0e0b46b573ca0c99f5ad63df0",
+            "image": "https://i.imgur.com/wMt8cfz.png",
             "weight": "1 Kg",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.8
@@ -441,7 +441,7 @@
             "price": "50",
             "description": "Fresh Organic Orange Juice ",
             "category": "dairy",
-            "image": "https://cdn-icons.flaticon.com/png/512/1687/premium/1687077.png?token=exp=1658314564~hmac=3de8aa5d39b38e069263ac8e304a19f3",
+            "image": "https://i.imgur.com/HJbVZqH.png",
             "weight": "800 ml",
             "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure autem cum aperiam sapiente recusandae doloribus culpa alias nemo tempora hic corrupti, iste voluptate dolore, deserunt deleniti fugit libero dolor numquam."
             ,"rating": 4.4
